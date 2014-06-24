@@ -8,3 +8,6 @@ Contains <b>Custom ViewGroup</b> for <i>Element Positioning</i> across <i>multip
 Contains <b>Custom Text View</b> whose <i>height</i> varies between <i>max and min height.</i> <i>The text</i> in the custom text view <i>resizes itself</i> between <i>min and max text size</i> to make content visible in the height. Text View also tries to <i>preserve the integrity of the word.</i><br><br>
 Contains <b>Google Card UI.</b>
 
+![Alt text](/res/drawable/screenshot1.png?raw=true "ScreenShot")
+![Alt text](/res/drawable/screenshot2.png?raw=true "ScreenShot")
+![Alt text](/res/drawable/screenshot3.png?raw=true "ScreenShot")
